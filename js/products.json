@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"title": "ВОДЮДЮНЯ",
+		"itemsInBox": 6,
+		"weight": 0.5,
+		
+		"price": 281,
+		"imgSrc": "1.png"
+	},
+	{
+		"id": 2,
+		"title": "КРАСНОЕ РЫГАЛОВО",
+		"itemsInBox": 6,
+		"weight": 1,
+		"price": 179,
+		"imgSrc": "2.png"
+	},
+	{
+		"id": 3,
+		"title": "ПИВАС КД «ЗАПИВОН»",
+		"itemsInBox": 6,
+		"weight": 0.5,
+		"price": 46,
+		"imgSrc": "3.png"
+	},
+	{
+		"id": 4,
+		"title": "КД ЗАКУСОН",
+		"itemsInBox": 6,
+		"weight": 200,
+		"price": 59,
+		"imgSrc": "4.png"
+	}
+]
